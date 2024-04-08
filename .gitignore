@@ -1,0 +1,25 @@
+# Dependency directory
+node_modules/
+
+# Build artifacts (adjust folder names if different)
+build/
+dist/
+
+# Test coverage
+coverage/*
+
+# Cache directories
+.cache/
+.eslintcache
+
+# Logs
+*.log
+
+# Environment variables
+.env*  # Ignores all files starting with .env
+
+# Optional: REPL history
+.node_repl_history
+
+# Optional: IDE/Editor files (adjust for your IDE)
+.vscode/
